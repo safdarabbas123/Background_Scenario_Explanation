@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/681624227.svg)](https://zenodo.org/badge/latestdoi/681624227)
 # License
 Copyright 2023 Safdar Abbas
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
