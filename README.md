@@ -73,6 +73,7 @@ https://www.carbonbrief.org/explainer-how-shared-socioeconomic-pathways-explore-
 
  # CO2-Mitigation Targets in REMIND-SSP2 Scenarios
  SSP2, a "middle-of-the-road" socioeconomic pathway approach based on historical patterns in demographic, economic, and technical development. The REMIND-SSP2-Base scenario anticipates a 3.5°C temperature escalation by the year 2100. On the other hand, the REMIND-SSP2-PKBudg1150 scenario targets keeping the temperature increase slightly below 2°C, while the REMIND-SSP2-PKBudg500 scenario aims for a limit just under 1.5°C
+![GWP](https://github.com/safdarabbas123/Background_Scenario_Explanation/assets/112714003/cbc32f94-75cb-473b-b5b4-5ffd977da40c)
 
 
 
