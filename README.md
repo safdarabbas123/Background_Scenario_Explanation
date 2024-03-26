@@ -71,6 +71,15 @@ For example, SSP1 has modest mitigation and adaptation issues because to its rap
 More information about SSPs and RCP system please cite the carbonBrief article given under following link.
 https://www.carbonbrief.org/explainer-how-shared-socioeconomic-pathways-explore-future-climate-change/
 
+ # CO2-Mitigation Targets in REMIND-SSP2 Scenarios
+ SSP2, a "middle-of-the-road" socioeconomic pathway approach based on historical patterns in demographic, economic, and technical development. The REMIND-SSP2-Base scenario anticipates a 3.5°C temperature escalation by the year 2100. On the other hand, the REMIND-SSP2-PKBudg1150 scenario targets keeping the temperature increase slightly below 2°C, while the REMIND-SSP2-PKBudg500 scenario aims for a limit just under 1.5°C
+
+
+
+
+
+
+
 # Selected Publications
 Keywan Riahi, Detlef P. van Vuuren, Elmar Kriegler, Jae Edmonds, Brian C. O’Neill, Shinichiro Fujimori, Nico Bauer, Katherine Calvin, Rob Dellink, Oliver Fricko, Wolfgang Lutz, Alexander Popp, Jesus Crespo Cuaresma, Samir KC, Marian Leimbach, Leiwen Jiang, Tom Kram, Shilpa Rao, Johannes Emmerling, Kristie Ebi, Tomoko Hasegawa, Petr Havlik, Florian Humpenöder, Lara Aleluia Da Silva, Steve Smith, Elke Stehfest, Valentina Bosetti, Jiyong Eom, David Gernaat, Toshihiko Masui, Joeri Rogelj, Jessica Strefler, Laurent Drouet, Volker Krey, Gunnar Luderer, Mathijs Harmsen, Kiyoshi Takahashi, Lavinia Baumstark, Jonathan C. Doelman, Mikiko Kainuma, Zbigniew Klimont, Giacomo Marangoni, Hermann Lotze-Campen, Michael Obersteiner, Andrzej Tabeau, Massimo Tavoni,
 The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview,Global Environmental Change,
